@@ -1,0 +1,51 @@
+@font-face {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 700;
+  src:
+    local("Gilroy-Bold"),
+    url("../fonts/Gilroy-Bold.woff") format("woff"),
+    url("../fonts/Gilroy-Bold.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  font-style: 900;
+  src:
+    local("Gilroy-Heavy"),
+    url("../fonts/Gilroy-Heavy.woff") format("woff"),
+    url("../fonts/Gilroy-Heavy.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 500;
+  src:
+    local("Gilroy-Medium"),
+    url("../fonts/Gilroy-Medium.woff") format("woff"),
+    url("../fonts/Gilroy-Medium.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "LT Superior";
+  font-style: normal;
+  font-weight: 700;
+  src:
+    local("LTSuperior-Bold"),
+    url("../fonts/LTSuperior-Bold.woff") format("woff"),
+    url("../fonts/LTSuperior-Bold.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "LT Superior";
+  font-style: normal;
+  font-weight: 500;
+  src:
+    local("LTSuperior-Medium"),
+    url("../fonts/LTSuperior-Medium.woff") format("woff"),
+    url("../fonts/LTSuperior-Medium.woff2") format("woff2");
+  font-display: swap;
+}
